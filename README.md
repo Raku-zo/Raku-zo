@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Raku-zo
-- 👀 I’m interested in Game Development, AI/ML, Web Development, Mobile App Development 
-- 🌱 I’m currently learning C++, Python, Java, HTML/CSS/JS at the same time lol
-- 📘 Facebook: Khalil Josiah M. Dantes
-- 📷 Instagram: @rakkuuuuuu.exe
-- 🐦 Twitter: @khalildantes6
+- 👀 Interests: Game Development, AI/ML, Web Development, Mobile App Development, Software Engineering 
+- Skills:
+- Programming Languages: C++, Python, JavaScript, Java
+  Web Development: HTML, CSS  
   
 
 <!---
