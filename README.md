@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Raku-zo
-- 👀 Interests: Game Development, AI/ML, Web Development, Mobile App Development, Software Engineering 
-- Skills:
+- 👀 Interests: Game Development, AI/ML, Web Development, Mobile App Development, Software Engineering
+- **Skills**
 - Programming Languages: C++, Python, JavaScript, Java
-  Web Development: HTML, CSS  
-  
+- Web Development: HTML, CSS
+- Tools & Technologies: Git
+
+
 
 <!---
 Raku-zo/Raku-zo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
