@@ -1,5 +1,5 @@
 # 💫 About Me:
-16 y/o<br> 🇵🇭<br>Studen5
+16 y/o<br> 🇵🇭<br>Student
 
 
 ## 🌐 Socials:
